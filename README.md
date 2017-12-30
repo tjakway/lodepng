@@ -1,3 +1,13 @@
+tjakway/lodepng
+-------
+
+Merged: 
+* https://github.com/lvandeve/lodepng/pull/34
+* https://github.com/lvandeve/lodepng/pull/60
+* https://github.com/lvandeve/lodepng/pull/45
+* https://github.com/lvandeve/lodepng/pull/41
+
+
 LodePNG
 -------
 
