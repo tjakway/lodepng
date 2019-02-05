@@ -1,4 +1,8 @@
 /*
+ * Modified lodepng.cpp by Lode Vandevenne, 
+ * modifications by Thomas Jakway and others (see README)
+ * original license below
+ *************************************************
 LodePNG version 20181230
 
 Copyright (c) 2005-2018 Lode Vandevenne
